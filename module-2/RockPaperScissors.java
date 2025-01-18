@@ -1,3 +1,10 @@
+
+/* Steve Stylin 
+Programming with Java
+Module 2.2
+*/ 
+
+
 import java.util.Random;
 import java.util.Scanner;
 
